@@ -1,6 +1,6 @@
 local_costmap:
-  global_frame: /map_static
-  robot_base_frame: /robot0
+  global_frame: map_static
+  robot_base_frame: robot0
   update_frequency: 5.0
   publish_frequency: 3.0
   static_map: false
